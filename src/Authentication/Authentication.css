@@ -1,0 +1,30 @@
+.authentication{
+    display: flex;
+    min-height: 50svh;
+    align-items: center;
+    justify-content: center;
+}
+.authentication > form{
+    padding: 15px;
+    margin: 50px 0;
+    background-color: rgb(207, 205, 205);
+    width: 360px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.authentication > form > input{
+    width: 100%;
+    outline: none;
+    margin-top: 8px;
+}
+.authentication > form > .auth-link > button,
+.authentication > form > button{
+    width: 100%;
+    border: 0cap;
+    color: aliceblue;
+    padding: 8px;
+    background-color: blueviolet;
+}
