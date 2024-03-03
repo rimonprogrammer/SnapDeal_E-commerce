@@ -1,0 +1,41 @@
+.titles{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    padding-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.titles > .title-link {
+    width: 180px;
+    padding-top: 10px;
+}
+.titles > .title-link:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.titles > .title-link > button {
+    border: none;
+    position: relative;
+    background-color: transparent;
+}
+.titles > .title-link > button::after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    background-color: transparent;
+}
+.titles > .title-link > button > img{
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.titles > .title-link > button > p{
+    font-weight: 500;
+}
