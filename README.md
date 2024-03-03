@@ -50,7 +50,7 @@ Live: https://snap-deals.netlify.app/
 
 <h4>Project screenshot</h4>
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-1.jpg" alt="snapdeal website picture" >
-<img class="bg-danger" src="https://rimonprogrammer.netlify.app/public/snapdeal-2.jpg" alt="snapdeal website picture" >
+<img class="border border-5 border-light" src="https://rimonprogrammer.netlify.app/public/snapdeal-2.jpg" alt="snapdeal website picture" >
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-3.jpg" alt="snapdeal website picture" >
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-4.jpg" alt="snapdeal website picture" >
 <img src="https://rimonprogrammer.netlify.app/public/shopland-5.jpg" alt="snapdeal website picture" >
