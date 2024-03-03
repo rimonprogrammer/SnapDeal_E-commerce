@@ -1,6 +1,7 @@
 
 <h4>SnapDeal e-commerce website</h4>
-<p>This is a SnapDeal e-commerce website. SnapDeal e-commerce website is made with React-JS, Node-JS, Express-JS, MongoDB, Bootstrap, & CSS. In this project, I've implemented a user authentication system + bcrypt js security, shopping cart functionality, product searching, product sorting, product category filter, product details, visually appealing & mobile responsive user interface. I've used context API, React router, React-icons, React-toasty, React-slick, useReducer & Other hooks</p>
+<p>This is a SnapDeal e-commerce website. SnapDeal e-commerce website is made with React-JS, Node-JS, Express-JS, MongoDB, Bootstrap, & CSS. In this project, I've implemented a user authentication system + bcrypt js security, shopping cart functionality, product searching, product sorting, product category filter, product details, visually appealing & mobile responsive user interface. I've used context API, React router, React-icons, React-toastify, React-slick, useReducer & Others hooks
+</p>
 
 <h4>Using technologies & packages</h4>
 <ul>
