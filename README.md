@@ -39,18 +39,24 @@
   <li>Attractive alert using react toastify</li>
 </ul>
 
-<img src="https://rimonprogrammer.netlify.app/public/snapdeal-1.jpg" alt="snapdeal website picture" >
-<img src="" alt="snapdeal website picture" >
-<img src="" alt="snapdeal website picture" >
-<img src="" alt="snapdeal website picture" >
-<img src="" alt="snapdeal website picture" >
-<img src="" alt="snapdeal website picture" >
-
 Live: https://snap-deals.netlify.app/
 
 <h4>Follow the 3 Steps to get the project</h4>
 <ul>
   <li>Clone the Project</li>
-  <li>Simply run the command (npm install) for node_modulees folder</li>
+  <li>Simply run the command (npm install) for node_modulees folder (Frontend file)</li>
   <li> run the project using npm run dev</li>
 </ul>
+
+<h4>Project screenshot</h4>
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-1.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-2.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-3.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-4.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/shopland-5.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-6.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-7.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-8.jpg" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-9.jpg" alt="snapdeal website picture" >
+
+
