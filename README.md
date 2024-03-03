@@ -39,7 +39,7 @@
   <li>Attractive alert using react toastify</li>
 </ul>
 
-<img src="" alt="snapdeal website picture" >
+<img src="https://rimonprogrammer.netlify.app/public/snapdeal-1.jpg" alt="snapdeal website picture" >
 <img src="" alt="snapdeal website picture" >
 <img src="" alt="snapdeal website picture" >
 <img src="" alt="snapdeal website picture" >
