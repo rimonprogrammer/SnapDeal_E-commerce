@@ -52,6 +52,8 @@ Live: https://snap-deals.netlify.app/
 <h4>Project screenshot</h4>
 <p>SnapDeal home page</p>
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-1.jpg" alt="snapdeal website picture" >
+
+<p>SnapDeal home page bottoom section</p>
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-2.jpg" alt="snapdeal website picture" >
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-3.jpg" alt="snapdeal website picture" >
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-4.jpg" alt="snapdeal website picture" >
