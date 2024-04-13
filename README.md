@@ -55,8 +55,9 @@ Live: https://snap-deals.netlify.app/
 
 <p>SnapDeal home page bottoom section</p>
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-2.jpg" alt="snapdeal website picture" >
-<p>SnapDeal home page bottoom section</p>
+<p>SnapDeal home page with dark theme</p>
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-3.jpg" alt="snapdeal website picture" >
+<p>SnapDeal home page with dark theme</p>
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-4.jpg" alt="snapdeal website picture" >
 <img src="https://rimonprogrammer.netlify.app/public/shopland-5.jpg" alt="snapdeal website picture" >
 <img src="https://rimonprogrammer.netlify.app/public/snapdeal-6.jpg" alt="snapdeal website picture" >
