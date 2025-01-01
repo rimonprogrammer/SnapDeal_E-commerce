@@ -1,0 +1,29 @@
+.winter-product-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.winter-product-img > img{
+    height: 350px;
+}
+.winter-product-details > li{
+    list-style: none;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+.winter-product-details > li > img{
+    height: 40px;
+    width: 40px;
+    padding: 8px;
+    background-color: rgb(148, 150, 151);
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.winter-product-details > li > p{
+    padding-left: 10px;
+    padding-top: 10px;
+}

@@ -1,0 +1,75 @@
+.hero{
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+    background-color: #030712;
+}
+.hero-overflow{
+    top: 0%;
+    right: 0%;
+    height: 600px;
+    width: 500px;
+    margin-top: -15%;
+    position: absolute;
+    background-color: #705227;
+    border-radius: 50px;
+    transform:rotate(45deg);
+    -webkit-transform:rotate(45deg);
+    -moz-transform:rotate(45deg);
+    -ms-transform:rotate(45deg);
+    -o-transform:rotate(45deg);
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.hero-slider{
+    min-height: 600px;
+    align-items: center;
+}
+.hero-slider > div > h1{
+    font-weight: bold;
+    font-size: 70px;
+    font-family : "Trebuchet MS" sans-serif
+}
+.hero-slider > div > button{
+    border: none;
+    padding: 8px 15px;
+    color: beige;
+    background-color: orange;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.hero-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media (max-width: 1200px) {
+    .hero-slider > div > h1{
+        font-size: 35px;
+    }
+    .hero-img > img{
+        height: 300px;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero-text{
+        padding-top: 90px;
+        padding-left: 25px;
+    }
+    .hero-slider > div > h1{
+    font-size: 25px !important;
+    }
+    .hero-img > img{
+        height: 300px;
+    }
+}
