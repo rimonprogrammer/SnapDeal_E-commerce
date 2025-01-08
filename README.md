@@ -51,10 +51,5 @@ Live: https://snap-deals.netlify.app/
 
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5622AQGgvizE8gPsPA/feedshare-shrink_800/feedshare-shrink_800/0/1711206339879?e=1739404800&v=beta&t=Yosf7Ssx3JbciDqUpjgmGEc0gaATMGJI4_fkqLF5ARg)
 
-<img src="https://rimonprogrammer.netlify.app/public/shopland-2.jpg" alt="shopland website picture" >
-<img src="https://rimonprogrammer.netlify.app/public/shopland-3.jpg" alt="shopland website picture" >
-<img src="https://rimonprogrammer.netlify.app/public/shopland-4.jpg" alt="shopland website picture" >
-<img src="https://rimonprogrammer.netlify.app/public/shopland-5.jpg" alt="shopland website picture" >
-<img src="https://rimonprogrammer.netlify.app/public/shopland-6.jpg" alt="shopland website picture" >
-<img src="https://rimonprogrammer.netlify.app/public/shopland-7.jpg" alt="shopland website picture" >
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5622AQFu9eSX8AWglQ/feedshare-shrink_800/feedshare-shrink_800/0/1711206340307?e=1739404800&v=beta&t=Y04QKALNgq9ac0Xav0oEIrCPhUTJ0XVs4evbHQiNeSw)
 
