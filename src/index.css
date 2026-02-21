@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    font-family: "Pacifico", cursive;
+}
+ul{
+    padding: 0%;
+}
+li{
+    list-style: none;
+}
+
+.loader{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.loader > img{
+    height: 50px;
+}

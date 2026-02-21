@@ -1,0 +1,53 @@
+.Catagories {
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.Catagories > .category-link > button{
+    height: 150px;
+    width: 150px;
+    border: 1px solid rgb(210, 210, 210);
+    outline: none;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    background-color: transparent;
+    color: rgb(15, 15, 7);
+    text-transform: capitalize;
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+}
+.Catagories > .category-link > button:hover{
+    box-shadow: 0 0 10px rgb(168, 168, 168);
+}
+.Catagories > .category-link > button::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    background-color: transparent;
+}
+.Catagories > .category-link > button > img{
+    height: 100px;
+    width: 100px;
+    
+}
+
+
+
+
+
+
+
+

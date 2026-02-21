@@ -1,0 +1,20 @@
+.Category > div > h5,
+.Category > h5{
+    font-size: 15px;
+    color: rgb(21, 21, 21);
+}
+.Category > div > button{
+    display: block;
+    margin-top: 4px;
+    font-size: 14.5px;
+    border-color: transparent;
+    background-color: transparent;
+}
+.Category > ul > li{
+    cursor: pointer;
+    color: rgb(77, 77, 77);
+}
+.category-selected{
+    color: rgb(255, 0, 191) ;
+    text-decoration: underline;
+}

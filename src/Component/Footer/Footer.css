@@ -1,0 +1,73 @@
+.footer{
+    padding-top: 40px;
+    padding-bottom: 1px;
+    color: rgb(214, 214, 214);
+    background-color: #1F2937;
+}
+.footer-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.footer-content > div > h4{
+    position: relative;
+}
+.footer-content > div > h4::after{
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 2px;
+    bottom: -3%;
+    left: 0%;
+    background-color: aliceblue;
+}
+
+/* footer-intro start */
+.footer-intro > .footer-logo {
+    display: flex;
+    align-items: center;
+}
+.footer-intro > .footer-logo > img{
+    height: 60px;
+}
+.footer-intro > .footer-logo > p{
+    color: rgb(214, 214, 214);
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-family: "Protest Riot", sans-serif;
+}
+.footer-intro > .footer-logo > p > span{
+    color: orange;
+}
+.footer-intro > p{
+    max-width: 400px;
+}
+
+/* footer-menu start */
+.footer-menu > ul > li{
+    margin-top: 10px;
+}
+.footer-menu-link{
+    text-decoration: none;
+    color: rgb(214, 214, 214);
+}
+.footer-menu-link:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+
+
+/* footer-social start */
+.footer-social > ul > li{
+    display: flex;
+}
+.footer-social > ul > li:hover{
+    color: rgb(255, 255, 255);
+}
+.footer-social > ul > li > p{
+    margin-top: -5px;
+    padding-left: 8px;
+}
